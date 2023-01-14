@@ -1,0 +1,26 @@
+.container{
+    background-image: linear-gradient(red,yellow,blue);
+    height: 100vh;
+    text-align: center;
+}
+.h2tag{
+    text-shadow: 2px 2px aqua;
+    font-size: 2rem;
+}
+.btns{
+    display: flex;
+    justify-content: space-evenly;
+}
+.btn{
+    height: 50px;
+    background-color: rgb(87, 169, 241);
+    color: white;
+    border-radius: 25px;
+    padding: 15px;
+    cursor: pointer;
+}
+.components{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-around;
+}

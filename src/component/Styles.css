@@ -1,0 +1,16 @@
+.fun1{
+    width: 300px;
+    background-color: aqua;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.fun2{
+    width: 300px;
+    background-color: aqua;
+    border: 1px solid;
+    border-radius: 10px;
+}
+h4{
+    color: red;
+    font-style: italic;
+}
